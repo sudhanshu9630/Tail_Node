@@ -1,0 +1,19 @@
+PART 1.) 
+===========>>>>
+
+Language : Python 
+Tools : python modules and libraries 
+        >> Requests module : The requests module allows you to send HTTP requests using Python. 
+        >> Pandas : Pandas is a software library written for the Python programming language for data manipulation and analysis. 
+                    In particular, it offers data structures and operations for manipulating numerical tables and time series. 
+                    
+PART 2.)
+===========>>>>
+
+Language : Python
+Tools : Python modules and libraries
+        >> Requests module : The requests module allows you to send HTTP requests using Python. 
+        >> Pandas : Pandas is a software library written for the Python programming language for data manipulation and analysis. 
+                    In particular, it offers data structures and operations for manipulating numerical tables and time series. 
+        >> BeautifulSoup : Beautiful Soup is a Python package for parsing HTML and XML documents. 
+                           It creates a parse tree for parsed pages that can be used to extract data from HTML, which is useful for web scraping.
